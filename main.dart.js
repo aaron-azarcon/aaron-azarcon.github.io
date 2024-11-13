@@ -61392,7 +61392,7 @@ s.d=s.r2().bj(new A.a3F(s),t.j)},
 r2(){var s=0,r=A.Q(t.j),q,p
 var $async$r2=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=3
-return A.S(A.atG(A.f2("https://www.demonslayer-api.com/api/v1/combat-styles")),$async$r2)
+return A.S(A.atG(A.f2("https://corsproxy.io/?https%3A%2F%2Fwww.demonslayer-api.com%2Fapi%2Fv1%2Fcombat-styles")),$async$r2)
 case 3:p=b
 if(p.b===200){q=J.pt(B.cl.HD(A.atq(A.ary(p.e).c.a.i(0,"charset")).dM(p.w),null),"content")
 s=1
